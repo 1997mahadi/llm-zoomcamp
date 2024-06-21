@@ -4,7 +4,7 @@ This repository demonstrates a RAG (Retriever-Answerer-Generator) pipeline using
 
 ## Contents
 
-- `rag_pipeline.ipynb`: Jupyter notebook showcasing the RAG pipeline.
+- `rag_intro.ipynb`: Jupyter notebook showcasing the RAG pipeline.
 - Additional files for data and configuration.
 
 ## Key Features
